@@ -12,8 +12,11 @@ In the real world, we are surrounded by humans who can learn everything from the
 Machine Learning is said as a subset of artificial intelligence that is mainly concerned with the development of algorithms which allow a computer to learn from the data and past experiences on their own. The term machine learning was first introduced by Arthur Samuel in 1959.
 
  A machine has the ability to learn if it can improve its performance by gaining more data.
+ <img width="497" alt="image" src="https://github.com/khushbu4066/MachineLearningAlgorithms/assets/83541710/70b64af3-dc29-4f5c-9dba-06963a16c777">
+
 
  **NEED FOR MACHINE LEARNING**
+ 
 The need for machine learning is increasing day by day. The reason behind the need for machine learning is that it is capable of doing tasks that are too complex for a person to implement directly. As a human, we have some limitations as we cannot access the huge amount of data manually, so for this, we need some computer systems and here comes the machine learning to make things easy for us.
 The importance of machine learning can be easily understood by its uses cases, Currently, machine learning is used in self-driving cars, cyber fraud detection, face recognition, and friend suggestion by Facebook, etc. Various top companies such as Netflix and Amazon have build machine learning models that are using a vast amount of data to analyze the user interest and recommend product accordingly.
 
@@ -21,6 +24,7 @@ The importance of machine learning can be easily understood by its uses cases, C
 1. Supervised learning
 2. Unsupervised learning
 3. Reinforcement learning
+
 
 **SUPERVISED LEARNING**
 
@@ -31,6 +35,7 @@ The goal of supervised learning is to map input data with the output data. It is
 
 1. Classification
 2. Regression
+
 
 **UNSUPERVISED LEARNING**
 
@@ -43,6 +48,7 @@ In unsupervised learning, we don't have a predetermined result. The machine trie
 1. Clustering
 2. Association
 
+
 **REINFORCEMENT LEARNING**
 
 Reinforcement learning is a feedback-based learning method, in which a learning agent gets a reward for each right action and gets a penalty for each wrong action. The agent learns automatically with these feedbacks and improves its performance. In reinforcement learning, the agent interacts with the environment and explores it. The goal of an agent is to get the most reward points, and hence, it improves its performance.
@@ -52,8 +58,9 @@ The robotic dog, which automatically learns the movement of his arms, is an exam
 
 1. Model-Based Reinforcement Learning
 2. Model-Free Reinforcement Learning
-3. 
+   
                          __________________________________x__________________________________
+
 
    **CLASSIFICATION ALGORITHM FURTHER DEVIDED INTO 4 TYPES**
    1. Lazy Learning
