@@ -1,4 +1,4 @@
-# MachineLearningAlgorithms
+# Machine Learning Algorithms
 This repository contains Machine Learning related algorithms, which I'm going to practice in my ML journey.
 
 Before going into deep dive, let's learn some basics of Machine Learning:
