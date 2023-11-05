@@ -79,4 +79,32 @@ The robotic dog, which automatically learns the movement of his arms, is an exam
       
    4. Natural Network Based Model
 
+  **CLUSTERING ALGORITHM FURTHER DEVIDED INTO 4 TYPES**
+  1. Partitioning Clustering
+     
+     1.1  K-Means Algorithm
+     
+     1.2  K-Medoid Algorithm
+     
+     1.3  PAM (Partitioning Around Medoid)
+
+  2. Hierarchical Clustering
+
+     2.1  Top-Down
+
+     2.2  Bottom-Up
+
+        2.2.1  Single Linkage
+
+        2.2.2  Complete Linkage
+
+        2.2.3  Average Linkage
+     
+  3. Density-Based Clustering
+     
+  4. Distribution Model-Based Clustering
+     
+  5. Fuzzy Clustering
+ 
+
       
